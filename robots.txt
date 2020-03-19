@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooziengagh.unfoldmovementstudio.com/sitemap.xml
